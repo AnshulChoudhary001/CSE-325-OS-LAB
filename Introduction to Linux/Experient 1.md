@@ -83,7 +83,7 @@ By understanding and practicing these commands, students gain essential skills f
 
 
 
-### Some References:
+# Some References:
 Certainly! Here are some references and resources that you can explore to further enhance your knowledge and skills in the field of Linux and Windows operating systems and command-line usage:
 
 ### Books:
